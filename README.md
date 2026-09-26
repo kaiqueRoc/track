@@ -1,6 +1,6 @@
 # TRACK — Trilhas com propósito
 
-Landing page conceitual para a **TRACK**, uma marca fictícia de guias de trilha na Serra do Espinhaço, Minas Gerais. Projeto desenvolvido como case de portfólio (design/direção de arte), simulando um site real de uma empresa de ecoturismo e hiking.
+Landing page conceitual para a **TRACK**, uma marca de guias de trilha na Serra do Espinhaço, Minas Gerais. Projeto desenvolvido como case de portfólio (design/direção de arte), simulando um site real de uma empresa de ecoturismo e hiking.
 
 ## Sobre o projeto
 
